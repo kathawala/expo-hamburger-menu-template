@@ -31,9 +31,10 @@ Sets up for you: hamburger menu, drawer navigation, tests (with jest), hooks, de
 - [Preview](#preview)
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
-    - [Sponsor](#sponsor)
 - [License](#license)
-- [Thanks!](#thanks)
+- [Say thanks!](#say-thanks)
+    - [Liberapay](#liberapay)
+    - [PayPal](#paypal)
 
 # Installation
 [(Back to top)](#table-of-contents)
@@ -48,25 +49,6 @@ expo init --template https://github.com/kathawala/expo-hamburger-menu-template
 npx create-react-native-app --template https://github.com/kathawala/expo-hamburger-menu-template
 ```
 
-### Sponsor
-[(Back to top)](#table-of-contents)
-
-If this saved you development time or you otherwise found it useful, you can buy me a coffee through the following:
-
-<!-- Liberapay -->
-<script src="https://liberapay.com/kathawala/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/kathawala/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
-
-<!-- PayPal -->
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="LHG78XBMVTU82" />
-<input type="hidden" name="item_name" value="Open Source Software" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
-
 # License
 [(Back to top)](#table-of-contents)
 
@@ -74,24 +56,19 @@ If this saved you development time or you otherwise found it useful, you can buy
 
 [MIT License](https://opensource.org/licenses/MIT)
 
-# Thanks!
+# Say thanks!
 [(Back to top)](#table-of-contents)
 
 If this saved you development time or you otherwise found it useful, leave a star or follow in GitHub.
-You can buy me a coffee through the following:
+
+You can also buy me a coffee to say thanks:
 
 <!-- Liberapay -->
-<script src="https://liberapay.com/kathawala/widgets/button.js"></script>
-<noscript><a href="https://liberapay.com/kathawala/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
+### Liberapay
+<a href="https://liberapay.com/kathawala/donate"><img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a>
 
 <!-- PayPal -->
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_donations" />
-<input type="hidden" name="business" value="LHG78XBMVTU82" />
-<input type="hidden" name="item_name" value="Open Source Software" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+### PayPal
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=LHG78XBMVTU82&item_name=open+source+software&currency_code=USD)
 
 ![Footer](https://storage.googleapis.com/gh-assets/footer.jpg)
