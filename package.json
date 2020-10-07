@@ -1,16 +1,4 @@
 {
-  "main": "node_modules/expo/AppEntry.js",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios",
-    "web": "expo start --web",
-    "eject": "expo eject",
-    "test": "jest --watchAll"
-  },
-  "jest": {
-    "preset": "jest-expo"
-  },
   "dependencies": {
     "@expo/vector-icons": "^10.0.0",
     "@react-native-community/masked-view": "0.1.10",
@@ -39,6 +27,5 @@
     "@types/react-native": "~0.63.2",
     "jest-expo": "~39.0.0",
     "typescript": "~3.9.5"
-  },
-  "private": true
+  }
 }
