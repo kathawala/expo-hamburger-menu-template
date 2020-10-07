@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-hamburger-menu-template",
-    "slug": "react-native-hamburger-menu-template",
+    "name": "expo-hamburger-menu-template",
+    "slug": "expo-hamburger-menu-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
