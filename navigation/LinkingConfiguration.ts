@@ -6,11 +6,21 @@ export default {
     screens: {
       Root: {
         screens: {
-          TabOne: {
+          Database: {
             screens: {
-              TabOneScreen: 'one',
-            },
+              DatabaseScreen: 'database'
+            }
           },
+          FileSystem: {
+            screens: {
+              FileSystemScreen: 'filesystem'
+            }
+          },
+          Clients: {
+            screens: {
+              ClientsScreen: 'clients'
+            }
+          }
         },
       },
       NotFound: '*',

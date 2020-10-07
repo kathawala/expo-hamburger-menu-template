@@ -1,21 +1,15 @@
-import { createStackNavigator, StackHeaderLeftButtonProps } from '@react-navigation/stack';
+import { createStackNavigator } from '@react-navigation/stack';
 import { createDrawerNavigator } from '@react-navigation/drawer';
 import * as React from 'react';
-import { Feather } from '@expo/vector-icons';
 
-import Colors from '../constants/Colors';
-import useColorScheme from '../hooks/useColorScheme';
 import DatabaseScreen from '../screens/DatabaseScreen';
 import FileSystemScreen from '../screens/FileSystemScreen';
 import ClientsScreen from '../screens/ClientsScreen';
-import MenuIcon from '../components/MenuIcon';
 import { DrawerParamList, DatabaseParamList, FileSystemParamList, ClientsParamList } from '../types';
 
 const Drawer = createDrawerNavigator<DrawerParamList>();
 
 export default function DrawerNavigator() {
-  const colorScheme = useColorScheme();
-
   return (
     <Drawer.Navigator>
       <Drawer.Screen
