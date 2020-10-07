@@ -6,10 +6,6 @@ import { onPressFunc } from '../types';
 import { DrawerActions, useNavigation } from '@react-navigation/native';
 import { useCallback } from 'react';
 
-// export type MenuIconProps = {
-//   onPress: onPressFunc;
-// };
-
 export default function MenuIcon() {
   const navigation = useNavigation();
 
